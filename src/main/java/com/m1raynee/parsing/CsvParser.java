@@ -15,7 +15,7 @@ public class CsvParser implements FileParser {
 
         for (String line : lines) {
             // Skip header
-            if (line.isBlank() || line.contains("\"sity\"")) continue;
+            if (line.isBlank() || line.contains("\"city\"")) continue;
 
             String[] parts = line.split(";");
             if (parts.length < 4) continue;
