@@ -1,4 +1,4 @@
-package com.m1raynee.model;
+package com.m1raynee.csvxmlparser.model;
 
 public record AddressEntry(String city, String street, String house, int floor) {
     @Override

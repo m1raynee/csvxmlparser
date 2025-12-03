@@ -1,6 +1,6 @@
-package com.m1raynee.service;
+package com.m1raynee.csvxmlparser.service;
 
-import com.m1raynee.model.AddressEntry;
+import com.m1raynee.csvxmlparser.model.AddressEntry;
 
 import java.util.List;
 import java.util.Map;

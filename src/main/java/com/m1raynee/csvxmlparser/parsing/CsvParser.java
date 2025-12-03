@@ -1,6 +1,6 @@
-package com.m1raynee.parsing;
+package com.m1raynee.csvxmlparser.parsing;
 
-import com.m1raynee.model.AddressEntry;
+import com.m1raynee.csvxmlparser.model.AddressEntry;
 
 import java.nio.file.Files;
 import java.nio.file.Path;

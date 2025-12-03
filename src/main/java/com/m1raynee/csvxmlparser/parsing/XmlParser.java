@@ -1,6 +1,6 @@
-package com.m1raynee.parsing;
+package com.m1raynee.csvxmlparser.parsing;
 
-import com.m1raynee.model.AddressEntry;
+import com.m1raynee.csvxmlparser.model.AddressEntry;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
